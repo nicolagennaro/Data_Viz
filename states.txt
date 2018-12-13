@@ -1,0 +1,3 @@
+states = ['California', 'Florida', 'New York', 'Utah', 'Alabama', 'Maryland', 'Alaska',
+         'Oregon', 'Missouri', 'Minnesota', 'Mississippi', 'Iowa', 'Delaware', 'Louisiana',
+	          'North Carolina', 'South Carolina']
