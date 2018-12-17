@@ -1,0 +1,11 @@
+slides > slide {
+    width: 1920px;
+    height: 1000px;
+    /*padding: 10px 20px;*/
+    left: 23.5%;
+    top: 35%;
+}
+
+iframe {
+    height: 900px;
+}
